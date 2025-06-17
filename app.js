@@ -1,7 +1,7 @@
 import express from "express";
 import { resume } from "./data.js";
 const app = express();
-const port = 3000;
+const port = 3100;
 
 // Full resume
 app.get("/", (req, res) => {
