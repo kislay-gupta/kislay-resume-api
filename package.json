@@ -1,0 +1,22 @@
+{
+  "name": "kislay-resume-api",
+  "version": "1.0.0",
+  "description": "resume in api edition",
+  "keywords": [
+    "express",
+    "node",
+    "api",
+    "resume"
+  ],
+  "license": "ISC",
+  "author": "kislay gupta",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
